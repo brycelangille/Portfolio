@@ -1,9 +1,3 @@
-/**
-* Template Name: DevFolio - v2.3.0
-* Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 /*--------------------------------------------------------------
 # General
@@ -538,11 +532,11 @@ a:hover {
 .navbar-b.navbar-reduce .active > .nav-link,
 .navbar-b.navbar-reduce .nav-link.show,
 .navbar-b.navbar-reduce .nav-link.active {
-  color: #0078ff;
+  color:black
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
-  color: #0078ff;
+  color: black;
 }
 
 .navbar-b.navbar-reduce .navbar-toggler span {
@@ -1221,10 +1215,16 @@ footer {
 #social-links a {
   color: #333333;
   font-size: 2rem;
-  padding-right: 10px;
+  padding-right: 60px;
 }
 
 #copyright {
   padding-top: 8px;
 }
 
+/**
+* Template Name: DevFolio - v2.3.0
+* Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
